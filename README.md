@@ -1,2 +1,2 @@
-A responsive amazon-insiper e-commerce frontend <br>
+A responsive amazon-insipered e-commerce frontend <br>
 Author-TUSHAR DEHSWAL
