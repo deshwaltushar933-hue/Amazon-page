@@ -18,10 +18,11 @@ height: 50px;
 width: 100px;
 }
 .logo{
-    background-image: url("amazon-logo-icon.avif");
+    background-image: url("amazon-logo");
     height: 50px;
     width: 100%;
     background-size: cover;
+    color: white;
 }
 .border{
     border: 1.5px solid transparent;
@@ -95,4 +96,23 @@ span{
 .nav-cart{
     font-size: 0.85rem;
     font-weight: 700;
+}
+
+/**panel**/
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-opt p{
+    display: inline;
+    margin-left: 20px;
+}
+.panel-opt{
+    width: 93%;
+    font-size: 0.85rem;
 }
