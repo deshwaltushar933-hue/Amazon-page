@@ -116,3 +116,19 @@ span{
     width: 93%;
     font-size: 0.85rem;
 }
+/** shop section **/
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+ .box{
+    border:2px solid black;
+    height: 440px;
+    width: 20%;
+background-color: white;
+padding: 20px 0px 15px;
+ }
+ .box-img{
+    height: 440px;
+ }
